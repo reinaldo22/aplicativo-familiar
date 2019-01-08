@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858387472128",
+    "firebase_url": "https://familiamaruboblog.firebaseio.com",
+    "project_id": "familiamaruboblog",
+    "storage_bucket": "familiamaruboblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858387472128:android:49748476caec99c7",
+        "android_client_info": {
+          "package_name": "com.example.reinaldo.maruboblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858387472128-e08bs56kkt8h06b64dut467hp1eor347.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxpUFi6hiIpc5no8BM1D5uzyXT9y2EMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
